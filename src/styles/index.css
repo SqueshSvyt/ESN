@@ -1,0 +1,39 @@
+body{
+    font-family: "Roboto";
+    background: #ffffff;
+    margin:0;
+    padding: 0;
+    cursor: default;
+}
+
+h1,h2,h3,h4,h5,p,link,button{
+    margin:0;
+    padding: 0;
+    color: #617080;
+}
+
+a, button{
+    color: #75BBFF;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.error{
+    color: #eb3f5d;
+    background: #f1c9cf;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto";
+}
+
+ul{
+    margin: 0;
+}
+
+li{
+    margin: 0;
+}
